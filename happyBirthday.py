@@ -3,9 +3,6 @@ import pyfiglet
 import time
 import os
 
-import termios
-import struct
-import fcntl
 os.system('cls' if os.name == 'nt' else 'clear')
 
 
